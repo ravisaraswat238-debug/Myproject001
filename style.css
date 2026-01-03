@@ -27,14 +27,6 @@
             padding: 25px 60px;
         }
 
-        .left-icons,
-        .right-icons {
-            display: flex;
-            gap: 20px;
-            font-size: 20px;
-            cursor: pointer;
-        }
-
         .logo img {
             height: 60px;
         }
@@ -191,3 +183,4 @@
         font-size: 32px;
     }
 }
+
