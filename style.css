@@ -42,23 +42,6 @@
             margin-bottom: 30px;
         }
 
-        /* Filters */
-        .filters {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            font-size: 14px;
-            margin-bottom: 40px;
-        }
-
-        .filters select {
-            border: none;
-            background: transparent;
-            font-size: 14px;
-            cursor: pointer;
-            margin-right: 20px;
-        }
-
         /* Products Grid */
         .products {
             display: grid;
@@ -103,7 +86,7 @@
             }
 
             .container {
-                padding: 20px;
+                padding: 40px;
             }
 
             h1 {
@@ -148,10 +131,6 @@
     color: #ccc;
 }
 
-.footer-column a {
-    color: #ddd;
-    text-decoration: underline;
-}
 
 .footer-social {
     text-align: center;
@@ -183,4 +162,5 @@
         font-size: 32px;
     }
 }
+
 
