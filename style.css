@@ -23,7 +23,7 @@
         header {
             display: flex;
             align-items: center;
-            justify-content: space-between;
+            justify-content: center;
             padding: 25px 60px;
         }
 
@@ -162,5 +162,6 @@
         font-size: 32px;
     }
 }
+
 
 
