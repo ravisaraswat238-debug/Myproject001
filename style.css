@@ -86,13 +86,15 @@
             }
 
             .container {
-                padding: 40px;
+                padding: 10px;
+            }
+            .container .products{
+                grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
             }
 
             h1 {
                 font-size: 36px;
             }
-        }
 
         /* Footer */
 .footer {
@@ -162,6 +164,7 @@
         font-size: 32px;
     }
 }
+
 
 
 
